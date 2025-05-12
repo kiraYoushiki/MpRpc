@@ -1,0 +1,23 @@
+syntax="proto3";
+
+package fixBug;
+
+option cc_generic_services = true;
+
+message ResultCode {
+    int32 errcode = 1;
+    string errmsg = 2;
+}
+message LoginRequest {
+    string name = 1;    // 用户名
+    string pwd = 2;     // 密码
+}
+
+message LoginResponse {
+    ResultCode result = 1;
+    bool success = 2;
+}
+
+service UserServiceRpc {
+    rpc Login(LoginRequest) returns (LoginResponse);
+}

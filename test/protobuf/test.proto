@@ -1,0 +1,43 @@
+syntax = "proto3";
+package fixbug;
+
+//
+option cc_generic_services = true;
+
+message ResultCode {
+    int32 errcode = 1;
+    string errmsg = 2;
+}
+message LoginRequest {
+    string name = 1;    // 用户名
+    string pwd = 2;     // 密码
+}
+
+message LoginResponse {
+    ResultCode result = 1;
+    bool success = 2;
+}
+
+message GetFriendListsRequest {
+    uint32 userid = 1;
+}
+
+message User{
+    bytes name = 1;
+    uint32 age = 2;
+    enum Sex{
+        MAN = 0;
+        WOMAN = 1;
+    }
+    Sex sex = 3;
+}
+
+message GetFriendListsResonse {
+    ResultCode result = 1;
+    repeated User friends = 2;
+}
+
+service UserServiceRpc {
+    rpc Login(LoginRequest) returns (LoginResponse);
+    rpc GetFriendLists(GetFriendListsRequest) returns (GetFriendListsResonse);
+}

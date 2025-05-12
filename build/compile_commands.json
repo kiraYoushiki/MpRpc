@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/kria/code/build/src",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/kria/code/src/logger.cc",
+  "file": "/home/kria/code/src/logger.cc"
+},
+{
+  "directory": "/home/kria/code/build/src",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/kria/code/src/mprpcapplication.cc",
+  "file": "/home/kria/code/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/kria/code/build/src",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/kria/code/src/mprpcchannel.cc",
+  "file": "/home/kria/code/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/kria/code/build/src",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/kria/code/src/mprpcconfig.cc",
+  "file": "/home/kria/code/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/kria/code/build/src",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/kria/code/src/mprpccontroller.cc",
+  "file": "/home/kria/code/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/kria/code/build/src",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/mprpc.dir/rpcHeader.pb.cc.o -c /home/kria/code/src/rpcHeader.pb.cc",
+  "file": "/home/kria/code/src/rpcHeader.pb.cc"
+},
+{
+  "directory": "/home/kria/code/build/src",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/kria/code/src/rpcprovider.cc",
+  "file": "/home/kria/code/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/kria/code/build/src",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/kria/code/src/zookeeperutil.cc",
+  "file": "/home/kria/code/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/kria/code/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/provider.dir/UserService.cc.o -c /home/kria/code/example/callee/UserService.cc",
+  "file": "/home/kria/code/example/callee/UserService.cc"
+},
+{
+  "directory": "/home/kria/code/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/kria/code/example/user.pb.cc",
+  "file": "/home/kria/code/example/user.pb.cc"
+},
+{
+  "directory": "/home/kria/code/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/consumer.dir/CallUserService.cc.o -c /home/kria/code/example/caller/CallUserService.cc",
+  "file": "/home/kria/code/example/caller/CallUserService.cc"
+},
+{
+  "directory": "/home/kria/code/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/kria/code/src/include -I/home/kria/code/example  -g   -o CMakeFiles/consumer.dir/__/user.pb.cc.o -c /home/kria/code/example/user.pb.cc",
+  "file": "/home/kria/code/example/user.pb.cc"
+}
+]

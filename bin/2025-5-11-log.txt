@@ -1,0 +1,31 @@
+0:31:8 ===> Fisrst logger message!
+0:31:8 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+1:48:23 ===> Fisrst logger message!
+1:48:23 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+2:13:24 ===> Fisrst logger message!
+2:13:24 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+3:26:6 ===> Fisrst logger message!
+3:26:6 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+3:30:6 ===> Fisrst logger message!
+3:30:6 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+3:58:7 ===> Fisrst logger message!
+3:58:7 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+4:27:38 ===> Fisrst logger message!
+4:27:38 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+4:33:17 ===> Fisrst logger message!
+4:33:17 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+4:33:17 ===> 
+13:2:9 ===> Fisrst logger message!
+13:2:9 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+13:4:37 ===> Fisrst logger message!
+13:4:37 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+13:9:10 ===> Fisrst logger message!
+13:9:10 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+13:11:1 ===> Fisrst logger message!
+13:11:1 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+13:14:3 ===> Fisrst logger message!
+13:14:3 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+13:15:32 ===> Fisrst logger message!
+13:15:32 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
+13:16:28 ===> Fisrst logger message!
+13:16:28 ===> /home/kria/code/example/caller/CallUserService.cc:main:8
